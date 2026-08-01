@@ -5,6 +5,10 @@ Picxo was supposed to be a free and open source alternative to Flipnote but unfo
 
 Picxo is now under license CC0 1.0
 
+# UPDATE 2026 - LATE
+
+Picxo is now under license MIT-0
+
 
 
 # Why did I decide to release it under a Public Domain license?
@@ -35,12 +39,12 @@ Picxo is a professional-grade Python scripting kit for creating grid-based pixel
 
 ## 📜 Licensing & Third-Party Credits
 
-This project is a Scripting Kit released by Stormwindsky. To ensure maximum accessibility and freedom for the developer community, the core project is licensed under the CC0 1.0 Universal (Public Domain).
+This project is a Scripting Kit released by Stormwindsky. To ensure maximum accessibility and freedom for the developer community, the core project is licensed under the MIT-0.
 
 However, this software relies on external libraries with their own mandatory legal notices:
 ## 1. Picxo (Main Project)
 
-    License: CC0 1.0 Universal.
+    License: MIT-0.
 
     Summary: You can copy, modify, and distribute this work, even for commercial purposes, without asking permission.
 
